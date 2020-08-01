@@ -5,10 +5,12 @@
 
 ## :question: Quem sou eu
 
+
 Meu nome é Thiago, tenho 19 anos, estou cursando Bacharelado em Engenharia Elétrica com enfâse em Softwares.
 
 
 ## :computer: Tecnologias
+
 
 *HTML
 *CSS
@@ -21,6 +23,7 @@ Para isso, estou estudando sobre Node, Express, PostgreSQL, React e Angular.
 
 
 ## :chart_with_upwards_trend: Áreas de interesse
+
 
 :arrow_right_hook: Aprender e Ensinar
 :arrow_right_hook: Desenvolvimento Web
