@@ -1,12 +1,8 @@
-<h1 align="center"> 
-	Seja Bem-vindo! 👋
-</h1>
-
+# Seja Bem-vindo! 👋
 
 # :question: Quem sou eu
 
-
-### Meu nome é Thiago, tenho 19 anos, estou cursando Bacharelado em Engenharia Elétrica com enfâse em Softwares.
+Meu nome é Thiago, tenho 19 anos, estou cursando Bacharelado em Engenharia Elétrica com enfâse em Softwares.
 
 # :computer: Tecnologias
 
