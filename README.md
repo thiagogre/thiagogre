@@ -27,5 +27,5 @@ Para isso, estou estudando sobre Node, Express, PostgreSQL, React e Angular.
 
 Estou sempre aberto a novas amizades que venham para agregar. Compartilhar conhecimento sempre! Contacte-me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-gregório-4b1a331a3/)](https://www.linkedin.com/in/thiago-gregório-4b1a331a3/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ThiagoLuizGregorio/)](https://www.linkedin.com/in/ThiagoLuizGregorio/) 
 [![Gmail Badge](https://img.shields.io/badge/-thiagoluiz_16@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoluiz_16@hotmail.com)](mailto:thiagoluiz_16@hotmail.com)
