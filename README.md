@@ -1,7 +1,7 @@
 # Seja Bem-vindo! 👋
 
 <p align="center" style="display: block; align-items: center;">
-  <img alt="image" title="#Octocat" src="./assets/octocat.png" width="600px">
+  <img alt="image" title="#Octocat" src="https://github.com/thiagogre/thiagogre/blob/master/assets/octocat.png?raw=true" width="600px">
 </p>
 
 # :question: Quem sou eu
