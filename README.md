@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 
 <img align="center" alt="thiagogre's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thiagogre&show_icons=true&hide_border=true" />
+<img align="center" alt="thiagogre's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogre&layout=&" />
 
 ### Languages and Tools:
 
