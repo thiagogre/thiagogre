@@ -3,8 +3,12 @@
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning everything 🤣
 
-<img align="center" alt="thiagogre's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thiagogre&show_icons=true&hide_border=true" />
-<img align="center" alt="thiagogre's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogre&layout=&" />
+<table>
+  <tbody><tr>
+      <td><a target="_blank" rel="noopener noreferrer" ><img width="400px" align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=thiagogre&show_icons=true&hide_border=true" style="max-width:100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" ><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogre&layout=&" style="max-width:100%;"></a></td>
+  </tr>   
+</tbody></table>
 
 ### Languages and Tools:
 
