@@ -5,8 +5,7 @@
 
 <table>
   <tbody><tr>
-      <td><a target="_blank" rel="noopener noreferrer" ><img width="400px" align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=thiagogre&show_icons=true&hide_border=true" style="max-width:100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer" ><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogre&layout=&" style="max-width:100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer" ><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogre&layout=&" style="max-width:100%;"></a></td>
   </tr>   
 </tbody></table>
 
