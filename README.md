@@ -13,8 +13,7 @@
   ## I'm a Student and Developer!
   🌱 I’m currently learning everything 🤣
     <div align-items="center">
-            <a target="_blank" rel="noopener noreferrer" ><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogre&layout=&" style="max-width:100%;"></a>
-        </h4>
+            <a target="_blank" rel="noopener noreferrer" ><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagogre&hide=html&layout=compact"></a>
     </div>
 
   ### Languages and Tools:
