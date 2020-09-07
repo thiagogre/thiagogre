@@ -11,6 +11,7 @@
   <h4 align="center">
       <img alt="edit" title="banner" src="https://github.com/thiagogre/thiagogre/raw/master/assets/banner-server-crop.png" style="max-width: 100%;">
   </h4>
+  
   ---
 
   ## I'm a Student and Developer!
