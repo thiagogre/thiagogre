@@ -1,8 +1,4 @@
 <div align="center">
-  <p align="center">
-    <img align="center" alt="with_love" src="https://forthebadge.com/images/badges/built-with-love.svg" />
-    <img align="center" alt="html" src="https://forthebadge.com/images/badges/uses-html.svg" />
-  <p>
     
   ### Hi there, I'm Thiago 👋
 
